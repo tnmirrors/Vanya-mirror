@@ -1,2 +1,3 @@
 "BitlyMirror": "macos=https://storage.googleapis.com/vanyavpn/apps/VanyaVPN.dmg, windows=https://storage.googleapis.com/vanyavpn/apps/VanyaVPN.exe, linux= https://amazonvpn.s3.amazonaws.com/VanyaVPN.AppImage."
 "TN_MIRROR": "windows=https://github.com/tnmirrors/Vanya-mirror/releases/download/v1.20.6_or_v1.20.8/VanyaVPN_TN_MIRROR.exe"
+"TN_MIRRORS": "macos=NoLinks"
